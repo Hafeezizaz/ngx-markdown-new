@@ -9,10 +9,10 @@ export class AppComponent {
   angularVersion = VERSION.full;
   ngxMarkdownVersion = '16.0.0';
 
-  markdown = `## Markdown __rulez__!
+  markdown = `## Markdown _example!
 ---
 
-### Syntax highlight
+### Syntax highlighting
 \`\`\` typescript
 const language = 'typescript';
 \`\`\`
